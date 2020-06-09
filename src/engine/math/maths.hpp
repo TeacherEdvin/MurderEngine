@@ -140,12 +140,12 @@ namespace me {
 
     // rounding
 
-      /* ceil */
+      /* ceiling gang */
       long double ceil(long double a);
       double ceil(double a);
       float ceil(float a);
 
-      /* floor */
+      /* floor gang */
       long double floor(long double a);
       double floor(double a);
       float floor(float a);
